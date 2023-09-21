@@ -1,5 +1,5 @@
 body{ 
-    background-color: aquamarine(186, 150, 99);
+    background-color: rgb(247, 206, 153);
 }
 h1{
     font-size: 60px;
@@ -7,6 +7,10 @@ h1{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-decoration: center;
 }
-    p{
-        
+    img{
+        width: 14%;
+        height: 14%;
+        margin-left: 14%;
     }
+        
+    
