@@ -1,5 +1,5 @@
 body{ 
-    background-color: rgb(247, 206, 153);
+    background: rgb(160, 228, 255);
 }
 h1{
     font-size: 60px;
@@ -12,5 +12,23 @@ h1{
         height: 14%;
         margin-left: 14%;
     }
-        
+    .cabecalho{
+        background-color: rgb(255, 193, 239);
+    }
+    .lista_cabecalho{
+        display: flex;
+        margin: left 970px;
+        }
+        .item_lista_cabecalho{
+            color: rgb(255, 0, 106);
+            font-size: 60px;
+            list-style:none;
+            padding-left: 80px;
+        }
+        .logo_cabecalho{
+            width: 100px;
+            margin-left: 200px;
+            margin-top: 60px;
+        }
+    
     
